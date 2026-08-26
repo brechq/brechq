@@ -2,9 +2,10 @@
 
 **Student & Developer** building things for the web.
 
-I enjoy creating **web apps, developer tools, browser extensions, and experimental projects** while constantly learning new technologies.
+I enjoy creating **web apps, tools, browser extensions, and experimental projects** while learning and exploring new technologies.
 
 > Learn. Build. Improve.
+
 
 ---
 
@@ -12,19 +13,23 @@ I enjoy creating **web apps, developer tools, browser extensions, and experiment
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@brrchq)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@Brechq)
-[![My linktree](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://brechq.site)
+[![BRQ Link](https://img.shields.io/badge/BRQ_Link-000000?style=for-the-badge\&logo=linktree\&logoColor=white)](https://brechq.site)
 
 ---
 
-## 💻 Tech Stack
-
-### Development
+## 💻 Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Platforms & Tools
+---
 
+## 🛠️ Tools & Platforms
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
@@ -34,11 +39,12 @@ I enjoy creating **web apps, developer tools, browser extensions, and experiment
 
 ## 🚀 What I Build
 
-* 🌐 Web applications
-* 🧰 Developer & productivity tools
-* 🧩 Browser extensions
-* 🤖 AI-powered experiments
-* 🎨 Modern and minimal interfaces
+* 🌐 Web Applications
+* 🧰 Developer & Productivity Tools
+* 🧩 Browser Extensions
+* 🤖 AI-powered Projects
+* 🎨 Modern & Minimal Interfaces
+* 🔧 Experimental Projects
 
 ---
 
@@ -54,10 +60,10 @@ I enjoy creating **web apps, developer tools, browser extensions, and experiment
 
 ## 📌 Currently
 
-Learning, experimenting, and turning random ideas into actual projects.
+Learning, building, and experimenting with new ideas.
 
 ---
 
 <p align="center">
-  <sub>Built with curiosity and too much time spent staring at code.</sub>
+  <sub>Learn. Build. Improve.</sub>
 </p>
