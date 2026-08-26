@@ -63,7 +63,3 @@ I enjoy creating **web apps, tools, browser extensions, and experimental project
 Learning, building, and experimenting with new ideas.
 
 ---
-
-<p align="center">
-  <sub>Learn. Build. Improve.</sub>
-</p>
