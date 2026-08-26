@@ -1,4 +1,4 @@
-# Hey, I'm Ikram 👋
+# Hey, I'm brechq 👋
 
 **Student & Developer** building things for the web.
 
