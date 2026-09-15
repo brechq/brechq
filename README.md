@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="connectbanner-removebg-preview(1).png" alt="Oops the banner failed to load!">
 </p>
 
