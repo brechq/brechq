@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="connectbanner.png" alt="Brechq Connect Banner">
+</p>
 ---
 
 ## 🌐 Connect
